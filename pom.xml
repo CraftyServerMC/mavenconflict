@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>YOURGROUPID</groupId> <!-- Your modules' group ID -->
 	<artifactId>YOURARTIFACTID</artifactId> <!-- Name of the module -->
-	<version>COLLISION</version> <!-- Version of the module -->
+	<version>CONFLICT</version> <!-- Version of the module -->
 	<distributionManagement>
 		<repository>
 			<id>internal.repo</id>
